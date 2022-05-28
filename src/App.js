@@ -1,7 +1,7 @@
 import "./App.css";
 import React, {  useState } from "react";
 function App() {
-  const name = "Aman";
+  const name = "Netlify";
   const [data, setData] = useState([
     { name: "Rafa", id: 0 },
     { name: "Nadal", id: 1 },
